@@ -1,0 +1,11 @@
+body {
+    background: #000;
+}
+
+.box1 {
+    width: auto;
+    height: auto;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+}
